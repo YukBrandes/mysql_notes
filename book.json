@@ -1,6 +1,5 @@
 {
   "title": "mysql_notes",
-  "version": "15.10.14",
   "description": "mysql手册",
   "plugins": ["disqus"],
   "pluginsConfig": {
