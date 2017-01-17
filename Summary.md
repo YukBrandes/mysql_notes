@@ -11,5 +11,4 @@
 * [MySQL 进阶功能](8.进阶功能.md)
 * [MySQL 重复数据](9.重复数据.md)
 * [MySQL 导入导出](10.导入导出.md)
-* [MySQL Timeout](mysql-timeout.md)
-
+* [MySQL Timeout](11.mysql-timeout.md)
